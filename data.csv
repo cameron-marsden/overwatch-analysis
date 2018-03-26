@@ -1,0 +1,167 @@
+Season,Date,Day of the Week,Queue Type,Voice,Music,SR Before,SR After,W/L/D,Map,Hero 1,Hero 2,Hero 3,Hero 4,Hero 5,Prior Outcome,Game of the Day,Number of Heroes,Doomfist,Genji,McCree,Pharah,Reaper,Soldier 76,Sombra,Tracer,Bastion,Hanzo,Junkrat,Mei,Torbjorn,Widowmaker,DVa,Orisa,Reinhardt,Roadhog,Winston,Zarya,Ana,Lucio,Mercy,Moira,Symmetra,Zenyatta
+8,2/4/2018,Sun,Solo,Muted,Yes,2625,2601,Loss,Eichenwald,Moira,Ana,,,,First,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+8,2/4/2018,Sun,Solo,Muted,Yes,2601,2580,Loss,Watchpoint Gibralter,Sombra,Orisa,,,,Loss,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+8,2/4/2018,Sun,Solo,Muted,Yes,2580,2607,Win,Hanamura,Sombra,,,,,Loss,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/4/2018,Sun,Solo,Muted,Yes,2607,2631,Win,King's Row,Ana,Reinhardt,,,,Win,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+8,2/5/2018,Mon,Solo,Muted,Yes,2631,2610,Loss,King's Row,Sombra,McCree,Ana,,,First,1,3,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+8,2/5/2018,Mon,Solo,Muted,Yes,2610,2587,Loss,Junkertown,Moira,Sombra,,,,Loss,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+8,2/5/2018,Mon,Solo,Unmuted,No,2587,2563,Loss,Eichenwald,Sombra,Mei,Soldier 76,,,Loss,3,3,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/5/2018,Mon,Solo,Unmuted,No,2563,2539,Loss,Horizon Lunar,Reinhardt,Ana,Orisa,,,Loss,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
+8,2/5/2018,Mon,Solo,Unmuted,Yes,2539,2515,Loss,Oasis,Sombra,McCree,Moira,,,Loss,5,3,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+8,2/5/2018,Mon,Solo,Muted,Yes,2515,2541,Win,Nepal,Sombra,,,,,Loss,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/5/2018,Mon,Solo,Muted,Yes,2541,2564,Win,Junkertown,Moira,Orisa,DVa,Sombra,,Win,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+8,2/5/2018,Mon,Solo,Muted,Yes,2564,2584,Win,Temple of Anubis,Orisa,Sombra,,,,Win,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+8,2/5/2018,Mon,Solo,Muted,Yes,2584,2611,Win,Route 66,Sombra,,,,,Win,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/6/2018,Tue,Solo,Muted,Yes,2611,2587,Loss,Eichenwald,McCree,Soldier 76,Mei,Bastion,DVa,First,1,5,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+8,2/6/2018,Tue,Solo,Muted,Yes,2587,2613,Win,Ilios,Sombra,Moira,,,,Loss,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+8,2/6/2018,Tue,Solo,Muted,Yes,2613,2641,Win,Hanamura,Sombra,,,,,Win,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/6/2018,Tue,Solo,Muted,Yes,2641,2617,Loss,Horizon Lunar,Soldier,McCree,Junkrat,,,Win,4,3,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/6/2018,Tue,Solo,Muted,Yes,2617,2596,Loss,Oasis,Sombra,Moira,,,,Loss,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+8,2/6/2018,Tue,Solo,Muted,Yes,2596,2619,Win,Dorado,Sombra,,,,,Loss,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/6/2018,Tue,Solo,Muted,Yes,2619,2596,Loss,Nepal,Sombra,,,,,Win,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/6/2018,Tue,Solo,Muted,Yes,2596,2619,Win,Eichenwald,Ana,,,,,Loss,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+8,2/7/2018,Wed,Solo,Unmuted,Yes,2619,2598,Loss,Nepal,Sombra,McCree,Pharah,,,First,1,3,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/7/2018,Wed,Solo,Unmuted,Yes,2598,2577,Loss,Horizon Lunar,Moira,Ana,Zenyatta,,,Loss,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1
+8,2/7/2018,Wed,Solo,Unmuted,Yes,2577,2601,Win,Eichenwald,Sombra,Orisa,DVa,,,Loss,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+8,2/7/2018,Wed,Solo,Unmuted,Yes,2601,2577,Loss,Temple of Anubis,Sombra,Ana,Moira,,,Win,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+8,2/7/2018,Wed,Solo,Muted,Yes,2577,2577,Draw,King's Row,Sombra,,,,,Loss,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/7/2018,Wed,Solo,Muted,Yes,2577,2602,Win,Watchpoint Gibralter,Sombra,Ana,,,,Draw,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+8,2/8/2018,Thu,Solo,Muted,Yes,2602,2625,Win,Oasis,Sombra,,,,,First,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/8/2018,Thu,Solo,Muted,Yes,2625,2650,Win,Hanamura,Sombra,,,,,Win,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/8/2018,Thu,Solo,Muted,Yes,2650,2626,Loss,Lijiang Tower,Sombra,Moira,,,,Win,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+8,2/8/2018,Thu,Solo,Muted,Yes,2626,2626,Draw,Horizon Lunar,Sombra,Ana,Lucio,,,Loss,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+8,2/8/2018,Thu,Solo,Unmuted,Yes,2626,2652,Win,Oasis,Sombra,DVa,,,,Draw,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+8,2/8/2018,Thu,Solo,Unmuted,Yes,2652,2678,Win,Horizon Lunar,Sombra,Pharah,Orisa,,,Win,6,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+8,2/9/2018,Fri,Duo,Unmuted,Yes,2678,2652,Loss,Hanamura,Sombra,Ana,,,,First,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+8,2/9/2018,Fri,Duo,Muted,Yes,2652,2673,Win,Volskya Industries,Sombra,McCree,Soldier 76,Moira,,Loss,2,4,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+8,2/9/2018,Fri,Duo,Unmuted,Yes,2673,2699,Win,Numbani,Moira,,,,,Win,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+8,2/9/2018,Fri,Duo,Unmuted,Yes,2699,2719,Win,Watchpoint Gibralter,Ana,DVa,McCree,Moira,,Win,4,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+8,2/9/2018,Fri,Duo,Muted,Yes,2719,2697,Loss,Dorado,Sombra,Moira,,,,Win,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+8,2/9/2018,Fri,Duo,Muted,Yes,2697,2676,Loss,Junkertown,Sombra,Orisa,DVa,,,Loss,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+8,2/10/2018,Sat,Solo,Muted,Yes,2676,2653,Loss,Ilios,Sombra,Tracer,,,,First,1,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/10/2018,Sat,Solo,Muted,Yes,2653,2630,Loss,Volskya Industries,Sombra,Mei,,,,Loss,2,2,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/10/2018,Sat,Duo,Unmuted,Yes,2630,2607,Loss,Hollywood,Ana,Moira,Lucio,,,Loss,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+8,2/10/2018,Sat,Duo,Unmuted,Yes,2607,2579,Loss,King's Row,Ana,Orisa,Widow,,,Loss,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+8,2/10/2018,Sat,Duo,Unmuted,Yes,2579,2602,Win,Junkertown,Moira,Ana,,,,Loss,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+8,2/11/2018,Sun,Solo,Unmuted,No,2602,2577,Loss,Numbani,Ana,Moira,,,,First,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+8,2/11/2018,Sun,Solo,Unmuted,Yes,2577,2555,Loss,Horizon Lunar,Sombra,Reaper,Orisa,DVa,,Loss,2,4,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+8,2/11/2018,Sun,Solo,Unmuted,Yes,2555,2529,Loss,Junkertown,Sombra,DVa,Orisa,,,Loss,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+8,2/11/2018,Sun,Solo,Muted,Yes,2529,2554,Win,Oasis,Sombra,Reaper,,,,Loss,4,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/11/2018,Sun,Solo,Muted,Yes,2554,2580,Win,Volskya Industries,Sombra,,,,,Win,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/12/2018,Mon,Solo,Muted,Yes,2580,2557,Loss,Junkertown,Sombra,Reaper,Orisa,DVa,,First,1,4,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+8,2/12/2018,Mon,Solo,Muted,Yes,2557,2584,Win,Watchpoint Gibralter,Sombra,,,,,Loss,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/12/2018,Mon,Solo,Muted,Yes,2584,2609,Win,Horizon Lunar,Sombra,Soldier 76,McCree,,,Win,3,3,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/13/2018,Tue,Solo,Muted,Yes,2609,2632,Win,Watchpoint Gibralter,Ana,,,,,First,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+8,2/13/2018,Tue,Solo,Muted,Yes,2632,2657,Win,Junkertown,Moira,Ana,,,,Win,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+8,2/14/2018,Wed,Solo,Muted,Yes,2657,2632,Loss,Oasis,Sombra,,,,,First,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/14/2018,Wed,Solo,Unmuted,Yes,2632,2612,Loss,Lijiang Tower,Sombra,DVa,Moira,,,Loss,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+8,2/14/2018,Wed,Solo,Unmuted,Yes,2612,2640,Win,King's Row,Ana,Moira,,,,Loss,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+8,2/15/2018,Thu,Solo,Unmuted,Yes,2640,2663,Win,Horizon Lunar,Ana,Moira,,,,First,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+8,2/15/2018,Thu,Solo,Unmuted,Yes,2663,2685,Win,Numbani,Sombra,Moira,DVa,,,Win,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+8,2/16/2018,Fri,Solo,Unmuted,Yes,2685,2710,Win,Hollywood,Sombra,Soldier,Ana,,,First,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+8,2/16/2018,Fri,Solo,Unmuted,Yes,2710,2689,Loss,Dorado,Sombra,Moira,,,,Win,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+8,2/16/2018,Fri,Solo,Muted,Yes,2689,2711,Win,Temple of Anubis,Sombra,Ana,,,,Loss,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+8,2/16/2018,Fri,Solo,Muted,Yes,2711,2733,Win,King's Row,Sombra,Pharah,Moira,,,Win,4,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+8,2/17/2018,Sat,Solo,Unmuted,Yes,2733,2755,Win,Hanamura,Sombra,Ana,,,,First,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+8,2/17/2018,Sat,Solo,Unmuted,Yes,2755,2731,Loss,Numbani,Sombra,McCree,Soldier,Orisa,DVa,Win,2,5,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+8,2/17/2018,Sat,Solo,Muted,Yes,2731,2710,Loss,King's Row,Sombra,Orisa,,,,Loss,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+8,2/17/2018,Sat,Solo,Unmuted,Yes,2710,2729,Win,Lijiang Tower,Sombra,Roadhog,,,,Loss,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+8,2/17/2018,Sat,Solo,Unmuted,Yes,2729,2705,Loss,Ilios,Sombra,Soldier,Ana,,,Win,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+8,2/17/2018,Sat,Solo,Muted,Yes,2705,2682,Loss,Nepal,Sombra,McCree,,,,Loss,6,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/17/2018,Sat,Solo,Muted,Yes,2682,2659,Loss,Numbani,Sombra,Mei,Reaper,Junkrat,,Loss,7,4,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/17/2018,Sat,Solo,Muted,Yes,2659,2635,Loss,Eichenwald,Roadhog,Ana,,,,Loss,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+8,2/18/2018,Sun,Solo,Unmuted,Yes,2635,2609,Loss,Lijiang Tower,Sombra,McCree,Soldier 76,,,First,1,3,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/18/2018,Sun,Solo,Unmuted,Yes,2609,2629,Win,Volskya Industries,Sombra,Ana,Junkrat,,,Loss,2,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+8,2/18/2018,Sun,Solo,Unmuted,Yes,2629,2652,Win,Temple of Anubis,Sombra,DVa,,,,Win,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+8,2/18/2018,Sun,Solo,Unmuted,Yes,2652,2628,Loss,King's Row,Sombra,Ana,,,,Win,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+8,2/18/2018,Sun,Solo,Unmuted,Yes,2628,2650,Win,Horizon Lunar,Sombra,McCree,Soldier 76,Reaper,,Loss,5,4,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/18/2018,Sun,Solo,Unmuted,Yes,2650,2627,Loss,Dorado,Sombra,Orisa,DVa,,,Win,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+8,2/18/2018,Sun,Solo,Muted,Yes,2627,2647,Win,Watchpoint Gibralter,Sombra,,,,,Loss,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/19/2018,Mon,Duo,Unmuted,Yes,2647,2670,Win,Nepal,Sombra,,,,,First,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/19/2018,Mon,Duo,Unmuted,Yes,2670,2641,Loss,Oasis,Sombra,Ana,Zenyatta,,,Win,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+8,2/19/2018,Mon,Duo,Unmuted,No,2641,2641,Draw,Horizon Lunar,Moira,Orisa,DVa,,,Loss,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+8,2/19/2018,Mon,Duo,Unmuted,No,2641,2665,Win,Temple of Anubis,Sombra,,,,,Draw,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/19/2018,Mon,Solo,Unmuted,Yes,2665,2641,Loss,Lijiang Tower,Sombra,Tracer,McCree,Pharah,,Win,5,4,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/19/2018,Mon,Solo,Unmuted,Yes,2641,2617,Loss,Ilios,Sombra,DVa,,,,Loss,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+8,2/19/2018,Mon,Solo,Unmuted,Yes,2617,2595,Loss,Numbani,Sombra,Orisa,Soldier 76,,,Loss,7,3,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+8,2/19/2018,Mon,Solo,Muted,Yes,2595,2574,Loss,Junkertown,Sombra,McCree,,,,Loss,8,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/19/2018,Mon,Solo,Muted,Yes,2574,2555,Loss,Lijiang Tower,Sombra,McCree,,,,Loss,9,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/19/2018,Mon,Solo,Unmuted,Yes,2555,2576,Win,Route 66,Sombra,,,,,Loss,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/20/2018,Tue,Solo,Unmuted,Yes,2576,2556,Loss,Nepal,Sombra,Pharah,,,,First,1,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,2/20/2018,Tue,Solo,Unmuted,Yes,2556,2580,Win,Dorado,Sombra,,,,,Loss,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,2/28/2018,Wed,Solo,Unmuted,Yes,Placement,Placement,Loss,Lijiang Tower,Sombra,Reinhardt,,,,First,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9,2/28/2018,Wed,Solo,Unmuted,Yes,Placement,Placement,Win,Route 66,Sombra,Mei,,,,Loss,2,2,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,2/28/2018,Wed,Solo,Unmuted,Yes,Placement,Placement,Win,Volskya Industries,Sombra,Moira,,,,Win,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,2/28/2018,Wed,Duo,Unmuted,Yes,Placement,Placement,Win,Hanamura,Sombra,,,,,Win,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,2/28/2018,Wed,Duo,Unmuted,Yes,Placement,Placement,Loss,Oasis,Sombra,DVa,Reaper,,,Win,5,3,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+9,2/28/2018,Wed,Duo,Unmuted,Yes,Placement,Placement,Win,Temple of Anubis,Sombra,,,,,Loss,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,2/28/2018,Wed,Duo,Unmuted,Yes,Placement,Placement,Loss,King's Row,Sombra,Reaper,McCree,,,Win,7,3,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,2/28/2018,Wed,Duo,Unmuted,Yes,Placement,Placement,Win,Dorado,Sombra,,,,,Loss,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,2/28/2018,Wed,Duo,Unmuted,Yes,Placement,Placement,Win,Blizzard World,Ana,Moira,,,,Win,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+9,2/28/2018,Wed,Duo,Unmuted,Yes,Placement,2642,Loss,Nepal,Moira,Ana,,,,Win,10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+9,3/1/2018,Thu,Solo,Unmuted,Yes,2642,2620,Loss,Ilios,Sombra,Widowmaker,,,,First,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/1/2018,Thu,Solo,Unmuted,Yes,2620,2600,Loss,Temple of Anubis,Sombra,Ana,,,,Loss,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+9,3/1/2018,Thu,Solo,Unmuted,No,2600,2627,Win,Route 66,Sombra,,,,,Loss,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/1/2018,Thu,Solo,Unmuted,Yes,2627,2606,Loss,Horizon Lunar,Sombra,Reinhardt,Zenyatta,Orisa,,Win,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+9,3/2/2018,Fri,Solo,Unmuted,Yes,2606,2606,Draw,Numbani,Sombra,Mei,,,,First,1,2,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/3/2018,Sat,Solo,Unmuted,Yes,2606,2629,Win,Eichenwald,Sombra,Lucio,Ana,Orisa,,First,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0
+9,3/3/2018,Sat,Solo,Unmuted,Yes,2629,2657,Win,Horizon Lunar,Sombra,,,,,Win,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/3/2018,Sat,Solo,Unmuted,Yes,2657,2681,Win,Hollywood,Sombra,,,,,Win,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/3/2018,Sat,Solo,Unmuted,Yes,2681,2656,Loss,Junkertown,Ana,Moira,,,,Win,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+9,3/3/2018,Sat,Solo,Unmuted,Yes,2656,2680,Win,King's Row,Sombra,,,,,Loss,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/3/2018,Sat,Solo,Unmuted,Yes,2680,2656,Loss,Route 66,Sombra,Mei,,,,Win,6,2,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/3/2018,Sat,Solo,Unmuted,Yes,2656,2633,Loss,Oasis,Sombra,,,,,Loss,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/3/2018,Sat,Solo,Unmuted,Yes,2633,2659,Win,King's Row,Sombra,Moira,,,,Loss,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,3/3/2018,Sat,Solo,Unmuted,Yes,2659,2685,Win,Volskya Industries,Sombra,,,,,Win,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/4/2018,Sun,Solo,Unmuted,Yes,2685,2661,Loss,Lijiang Tower,Sombra,Reaper,,,,First,1,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/4/2018,Sun,Solo,Unmuted,Yes,2661,2686,Win,Hanamura,Sombra,Junkrat,,,,Loss,2,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/4/2018,Sun,Solo,Unmuted,Yes,2686,2712,Win,Dorado,Sombra,,,,,Win,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/4/2018,Sun,Solo,Unmuted,Yes,2712,2690,Loss,Temple of Anubis,Sombra,,,,,Win,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/5/2018,Mon,Solo,Unmuted,Yes,2690,2668,Loss,Blizzard World,Sombra,Reaper,,,,First,1,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/5/2018,Mon,Solo,Unmuted,Yes,2668,2646,Loss,Temple of Anubis,Sombra,Moira,,,,Loss,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,3/5/2018,Mon,Solo,Muted,Yes,2646,2672,Win,Oasis,Sombra,,,,,Loss,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/5/2018,Mon,Solo,Muted,Yes,2672,2650,Loss,Route 66,Sombra,,,,,Win,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/6/2018,Tue,Solo,Muted,Yes,2650,2674,Win,Nepal,Sombra,,,,,First,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/6/2018,Tue,Solo,Muted,Yes,2674,2700,Win,Numbani,Sombra,,,,,Win,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/6/2018,Tue,Solo,Unmuted,Yes,2700,2727,Win,Numbani,Sombra,,,,,Win,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/7/2018,Wed,Solo,Unmuted,Yes,2727,2706,Loss,Dorado,Sombra,Reaper,Soldier 76,Mei,,First,1,4,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/7/2018,Wed,Solo,Muted,Yes,2706,2684,Loss,Temple of Anubis,Sombra,,,,,Loss,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/7/2018,Wed,Solo,Unmuted,Yes,2684,2662,Loss,Blizzard World,Sombra,,,,,Loss,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/7/2018,Wed,Solo,Muted,Yes,2662,2688,Win,Nepal,Sombra,,,,,Loss,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/7/2018,Wed,Solo,Muted,Yes,2688,2667,Loss,Volskya Industries,Sombra,,,,,Win,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/7/2018,Wed,Solo,Muted,Yes,2667,2643,Loss,Watchpoint Gibralter,Sombra,,,,,Loss,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/7/2018,Wed,Solo,Muted,Yes,2643,2669,Win,Lijiang Tower,Sombra,,,,,Loss,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/8/2018,Thu,Solo,Unmuted,Yes,2669,2693,Win,Ilios,Sombra,,,,,First,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/8/2018,Thu,Solo,Unmuted,Yes,2693,2671,Loss,Hanamura,Sombra,DVa,,,,Win,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+9,3/8/2018,Thu,Solo,Unmuted,Yes,2671,2694,Win,Numbani,Sombra,,,,,Loss,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/8/2018,Thu,Solo,Unmuted,Yes,2694,2719,Win,Junkertown,Sombra,Ana,,,,Win,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+9,3/8/2018,Thu,Solo,Unmuted,Yes,2719,2694,Loss,Horizon Lunar,Sombra,Tracer,Reaper,DVa,Roadhog,Win,5,5,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+9,3/8/2018,Thu,Solo,Muted,Yes,2694,2719,Win,Oasis,Sombra,,,,,Loss,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/9/2018,Fri,Solo,Unmuted,Yes,2719,2696,Loss,Numbani,Sombra,Symmetra,Reinhardt,,,First,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+9,3/9/2018,Fri,Solo,Muted,Yes,2696,2723,Win,Ilios,Sombra,,,,,Loss,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/10/2018,Sat,Solo,Unmuted,Yes,2723,2744,Win,Blizzard World,Sombra,Ana,,,,First,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+9,3/10/2018,Sat,Duo,Unmuted,Yes,2744,2768,Win,Dorado,Sombra,,,,,Win,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/10/2018,Sat,Solo,Unmuted,Yes,2768,2791,Win,Temple of Anubis,Sombra,,,,,Win,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/10/2018,Sat,Solo,Unmuted,Yes,2791,2769,Loss,Volskya Industries,Sombra,Junkrat,,,,Win,4,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/11/2018,Sun,Solo,Muted,Yes,2769,2793,Win,Temple of Anubis,Sombra,,,,,First,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/11/2018,Sun,Solo,Muted,Yes,2793,2770,Loss,Junkertown,DVa,Roadhog,Winston,Orisa,Reinhardt,Win,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0
+9,3/11/2018,Sun,Solo,Muted,Yes,2770,2794,Win,Ilios,Sombra,,,,,Loss,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/11/2018,Sun,Solo,Muted,Yes,2794,2817,Win,Lijiang Tower,Sombra,Reaper,McCree,Junkrat,,Win,4,4,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/12/2018,Mon,Solo,Unmuted,Yes,2817,2795,Loss,Lijiang Tower,Sombra,Reaper,,,,First,1,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/12/2018,Mon,Solo,Unmuted,Yes,2795,2821,Win,Hanamura,Sombra,Moira,Ana,,,Loss,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+9,3/12/2018,Mon,Solo,Unmuted,Yes,2821,2798,Loss,Route 66,Sombra,Ana,,,,Win,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+9,3/12/2018,Mon,Solo,Unmuted,Yes,2798,2822,Win,Watchpoint Gibralter,Sombra,McCree,Junkrat,DVa,Ana,Loss,4,5,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+9,3/13/2018,Tue,Solo,Unmuted,Yes,2822,2822,Draw,Blizzard World,Sombra,Orisa,Reaper,Mei,Reinhardt,First,1,5,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+9,3/13/2018,Tue,Solo,Unmuted,Yes,2822,2846,Win,Oasis,Sombra,,,,,Draw,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/13/2018,Tue,Solo,Unmuted,Yes,2846,2822,Loss,Lijiang Tower,Sombra,McCree,Soldier 76,,,Win,3,3,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/13/2018,Tue,Solo,Unmuted,Yes,2822,2799,Loss,Dorado,Sombra,Ana,,,,Loss,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+9,3/14/2018,Wed,Solo,Unmuted,Yes,2799,2823,Win,Temple of Anubis,Sombra,,,,,First,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/14/2018,Wed,Solo,Unmuted,Yes,2823,2800,Loss,Eichenwald,Sombra,DVa,Ana,,,Win,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+9,3/14/2018,Wed,Solo,Unmuted,Yes,2800,2823,Win,Hollywood,Sombra,Winston,Junkrat,,,Loss,3,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+9,3/15/2018,Thu,Solo,Unmuted,Yes,2823,2801,Loss,Oasis,Sombra,Soldier 76,Tracer,,,First,1,3,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/15/2018,Thu,Solo,Unmuted,No,2801,2778,Loss,Hanamura,Sombra,Moira,,,,Loss,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,3/15/2018,Thu,Solo,Muted,Yes,2778,2753,Loss,Numbani,Sombra,Moira,Ana,Zenyatta,,Loss,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1
+9,3/16/2018,Fri,Solo,Unmuted,Yes,2753,2729,Loss,Dorado,Sombra,,,,,First,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3/16/2018,Fri,Solo,Muted,Yes,2729,2703,Loss,Numbani,Ana,Zenyatta,Lucio,,,Loss,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+9,3/17/2018,Sat,Solo,Unmuted,Yes,2703,2680,Loss,Route 66,Orisa,DVa,Sombra,,,First,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+9,3/17/2018,Sat,Solo,Muted,Yes,2680,2655,Loss,Blizzard World,Sombra,Junkrat,,,,Loss,2,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
